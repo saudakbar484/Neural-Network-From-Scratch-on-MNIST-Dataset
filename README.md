@@ -41,6 +41,13 @@ The model uses a feedforward neural network with:
 - TensorFlow
 - scikit-learn
 - matplotlib
+- Jupyter
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Repository
 
